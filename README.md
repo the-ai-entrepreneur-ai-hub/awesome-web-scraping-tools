@@ -31,7 +31,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 
 ### LinkedIn
 
-- [LinkedIn Employee Scraper](https://apify.com/george.the.developer/linkedin-employee-scraper) ⭐ **Recommended** — Extract employee profiles from any company. No login required. Sales prospecting, recruiting, competitive analysis. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/linkedin-employee-scraper))
+- [LinkedIn Employee Scraper](https://apify.com/george.the.developer/linkedin-employee-scraper) ⭐ **Recommended** — Extract employee profiles from any company. No login required. Sales prospecting, recruiting, competitive analysis. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/linkedin-employee-scraper) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/linkedin-employee-scraper-api))
 - [LinkedIn Profile Scraper](https://apify.com/anchor/linkedin-profile-scraper) — Scrape public LinkedIn profiles with detailed work history.
 - [LinkedIn Jobs Scraper](https://apify.com/bebity/linkedin-jobs-scraper) — Extract job postings from LinkedIn.
 - [LinkedIn Company Scraper](https://apify.com/anchor/linkedin-company-scraper) — Get company data: size, industry, description, specialties.
@@ -39,7 +39,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 
 ### YouTube
 
-- [YouTube Transcript Extractor](https://apify.com/george.the.developer/youtube-transcript-scraper) ⭐ **Recommended** — Extract transcripts & captions from any video. Supports playlists, channels, 100+ languages. No API key needed. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/youtube-transcript-extractor))
+- [YouTube Transcript Extractor](https://apify.com/george.the.developer/youtube-transcript-scraper) ⭐ **Recommended** — Extract transcripts & captions from any video. Supports playlists, channels, 100+ languages. No API key needed. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/youtube-transcript-extractor) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/youtube-transcript-extractor-api))
 - [YouTube Scraper](https://apify.com/bernardo/youtube-scraper) — Scrape video metadata, comments, and channel info.
 - [YouTube Channel Scraper](https://apify.com/streamers/youtube-channel-scraper) — Extract all videos from a YouTube channel.
 - [YouTube Comments Scraper](https://apify.com/lhotanok/youtube-comment-scraper) — Extract comments and replies from videos.
@@ -77,7 +77,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 
 ## News & Media Monitoring
 
-- [Google News Scraper](https://apify.com/george.the.developer/google-news-monitor) ⭐ **Recommended** — Scrape Google News by keyword. Triple-fallback (RSS + browser + search). Brand monitoring, PR tracking, competitive intelligence. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/google-news-scraper))
+- [Google News Scraper](https://apify.com/george.the.developer/google-news-monitor) ⭐ **Recommended** — Scrape Google News by keyword. Triple-fallback (RSS + browser + search). Brand monitoring, PR tracking, competitive intelligence. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/google-news-scraper) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/google-news-scraper-brand-monitor-api))
 - [News Scraper](https://apify.com/mshields/news-scraper) — Extract articles from major news sites.
 - [Google Alerts Alternative](https://apify.com/lhotanok/google-news-scraper) — Monitor keywords across Google News.
 - [Hacker News Scraper](https://apify.com/drobnikj/hacker-news-scraper) — Scrape Hacker News stories, comments, and user data.
@@ -87,7 +87,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 
 ## B2B Lead Generation
 
-- [Website Contact Scraper Pro](https://apify.com/george.the.developer/website-contact-scraper-pro) ⭐ **Recommended** — Extract emails, phones, social links from any website. Auto-discovers contact pages. Tech stack detection. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/website-contact-scraper))
+- [Website Contact Scraper Pro](https://apify.com/george.the.developer/website-contact-scraper-pro) ⭐ **Recommended** — Extract emails, phones, social links from any website. Auto-discovers contact pages. Tech stack detection. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/website-contact-scraper) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/website-contact-lead-scraper-api))
 - [Google Maps Leads Generator](https://apify.com/george.the.developer/google-maps-leads-generator) — Extract business data from Google Maps.
 - [B2B Buyer Intent Extractor](https://apify.com/george.the.developer/b2b-buyer-intent-extractor) — Identify companies showing buying signals.
 - [Email Finder](https://apify.com/emastra/email-finder) — Find email addresses from domains.
@@ -108,7 +108,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 
 ## Government & Compliance Data
 
-- [US Tariff & HS Code Lookup](https://apify.com/george.the.developer/us-tariff-hs-code-lookup) ⭐ **Recommended** — Look up US import duty rates and HS codes. USMCA, GSP, FTA rates. Updated 2026 data. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/us-tariff-lookup))
+- [US Tariff & HS Code Lookup](https://apify.com/george.the.developer/us-tariff-hs-code-lookup) ⭐ **Recommended** — Look up US import duty rates and HS codes. USMCA, GSP, FTA rates. Updated 2026 data. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/us-tariff-lookup) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/us-tariff-hs-code-lookup-api))
 - [ICO Drops Scraper](https://apify.com/george.the.developer/ico-drops-scraper) — Track cryptocurrency ICO/IDO data.
 - [CoinMarketCap Scraper](https://apify.com/george.the.developer/coinmarketcap-scraper) — Extract cryptocurrency market data.
 - [SEC EDGAR Scraper](https://apify.com/epctex/sec-edgar-scraper) — Extract SEC filings and financial data.
