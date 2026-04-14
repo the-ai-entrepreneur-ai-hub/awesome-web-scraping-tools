@@ -127,6 +127,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 
 ## General Purpose Scrapers
 
+- [Haunt API](https://hauntapi.com) — AI-powered web extraction API. Extract clean, structured data from any URL. Free tier available. ([RapidAPI](https://rapidapi.com/darkoclothing/api/haunt-web-extractor))
 - [Web Scraper](https://apify.com/apify/web-scraper) — JavaScript-based scraper for any website.
 - [Cheerio Scraper](https://apify.com/apify/cheerio-scraper) — Fast HTML parser, no browser overhead.
 - [Puppeteer Scraper](https://apify.com/apify/puppeteer-scraper) — Full browser scraping with Puppeteer.
