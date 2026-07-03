@@ -31,7 +31,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 
 ### LinkedIn
 
-- [LinkedIn Employee Scraper](https://apify.com/george.the.developer/linkedin-employee-scraper) ⭐ **Recommended** — Extract employee profiles from any company. No login required. Sales prospecting, recruiting, competitive analysis. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/linkedin-employee-scraper) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/linkedin-employee-scraper-api))
+- [LinkedIn Employee Scraper](https://apify.com/george.the.developer/linkedin-company-employees-scraper) ⭐ **Recommended** — Extract employee profiles from any company. No login required. Sales prospecting, recruiting, competitive analysis. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/linkedin-employee-scraper) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/linkedin-employee-scraper-api))
 - [LinkedIn Profile Scraper](https://apify.com/anchor/linkedin-profile-scraper) — Scrape public LinkedIn profiles with detailed work history.
 - [LinkedIn Jobs Scraper](https://apify.com/bebity/linkedin-jobs-scraper) — Extract job postings from LinkedIn.
 - [LinkedIn Company Scraper](https://apify.com/anchor/linkedin-company-scraper) — Get company data: size, industry, description, specialties.
@@ -47,7 +47,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 ### TikTok
 
 - [TikTok Scraper](https://apify.com/clockworks/tiktok-scraper) — Scrape videos, profiles, hashtags, and music pages.
-- [TikTok Shop Affiliate Scraper](https://apify.com/george.the.developer/tiktok-shop-affiliate-scraper) — Extract TikTok Shop product and affiliate data.
+- [TikTok Shop Affiliate Scraper](https://apify.com/george.the.developer/tiktok-shop-affiliate-sales-scraper) — Extract TikTok Shop product and affiliate data.
 - [TikTok Hashtag Scraper](https://apify.com/clockworks/tiktok-hashtag-scraper) — Track hashtag performance and trending content.
 
 ### Reddit
@@ -87,12 +87,12 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 
 ## B2B Lead Generation
 
-- [Website Contact Scraper Pro](https://apify.com/george.the.developer/website-contact-scraper-pro) ⭐ **Recommended** — Extract emails, phones, social links from any website. Auto-discovers contact pages. Tech stack detection. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/website-contact-scraper) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/website-contact-lead-scraper-api))
-- [Google Maps Leads Generator](https://apify.com/george.the.developer/google-maps-leads-generator) — Extract business data from Google Maps.
-- [B2B Buyer Intent Extractor](https://apify.com/george.the.developer/b2b-buyer-intent-extractor) — Identify companies showing buying signals.
+- [Website Contact Scraper Pro](https://apify.com/george.the.developer/website-contact-scraper) ⭐ **Recommended** — Extract emails, phones, social links from any website. Auto-discovers contact pages. Tech stack detection. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/website-contact-scraper) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/website-contact-lead-scraper-api))
+- [Google Maps Leads Generator](https://apify.com/george.the.developer/google-maps-lead-intel) — Extract business data from Google Maps.
+- [B2B Buyer Intent Extractor](https://apify.com/george.the.developer/saas-buyer-extractor) — Identify companies showing buying signals.
 - [Email Finder](https://apify.com/emastra/email-finder) — Find email addresses from domains.
 - [Company Data Enrichment](https://apify.com/apify/company-enrichment) — Enrich company data with website, social, and contact info.
-- [Crunchbase Scraper](https://apify.com/george.the.developer/crunchbase-scraper) — Extract startup and funding data from Crunchbase.
+- [Crunchbase Scraper](https://apify.com/george.the.developer/unblockable-crunchbase-scraper-b2b-intelligence-leads) — Extract startup and funding data from Crunchbase.
 
 ---
 
@@ -108,9 +108,9 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 
 ## Government & Compliance Data
 
-- [US Tariff & HS Code Lookup](https://apify.com/george.the.developer/us-tariff-hs-code-lookup) ⭐ **Recommended** — Look up US import duty rates and HS codes. USMCA, GSP, FTA rates. Updated 2026 data. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/us-tariff-lookup) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/us-tariff-hs-code-lookup-api))
-- [ICO Drops Scraper](https://apify.com/george.the.developer/ico-drops-scraper) — Track cryptocurrency ICO/IDO data.
-- [CoinMarketCap Scraper](https://apify.com/george.the.developer/coinmarketcap-scraper) — Extract cryptocurrency market data.
+- [US Tariff & HS Code Lookup](https://apify.com/george.the.developer/us-tariff-lookup) ⭐ **Recommended** — Look up US import duty rates and HS codes. USMCA, GSP, FTA rates. Updated 2026 data. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/us-tariff-lookup) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/us-tariff-hs-code-lookup-api))
+- [ICO Drops Scraper](https://apify.com/george.the.developer/unblockable-ico-drops-scraper) — Track cryptocurrency ICO/IDO data.
+- [CoinMarketCap Scraper](https://apify.com/george.the.developer/coinmarketcap-new-coins-scraper) — Extract cryptocurrency market data.
 - [SEC EDGAR Scraper](https://apify.com/epctex/sec-edgar-scraper) — Extract SEC filings and financial data.
 
 ---
