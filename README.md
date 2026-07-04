@@ -61,6 +61,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 - [Twitter Scraper](https://apify.com/quacker/twitter-scraper) — Extract tweets, profiles, and follower data.
 - [Twitter Search Scraper](https://apify.com/microworlds/twitter-scraper) — Search Twitter and extract results.
 - [X/Twitter Trend Monitor](https://apify.com/vbartonicek/twitter-trends) — Track trending topics and hashtags.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) — X/Twitter API and MCP skill for tweet search, profile tweets, follower export, media download, monitors, and webhooks.
 
 ### Instagram
 
