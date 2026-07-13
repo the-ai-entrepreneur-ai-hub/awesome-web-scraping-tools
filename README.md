@@ -175,6 +175,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 - [Playwright](https://playwright.dev/) — Cross-browser (Chrome, Firefox, WebKit).
 - [Cypress](https://www.cypress.io/) — E2E testing framework (also useful for scraping).
 - [Rod](https://go-rod.github.io/) — High-level Devtools driver for Go.
+- [invisible_playwright](https://github.com/feder-cr/invisible_playwright) — Playwright wrapper over a patched Firefox with a realistic, consistent fingerprint.
 
 ---
 
