@@ -31,107 +31,107 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 
 ### LinkedIn
 
-- [LinkedIn Employee Scraper](https://apify.com/george.the.developer/linkedin-company-employees-scraper) ⭐ **Recommended** — Extract employee profiles from any company. No login required. Sales prospecting, recruiting, competitive analysis. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/linkedin-employee-scraper) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/linkedin-employee-scraper-api))
-- [LinkedIn Profile Scraper](https://apify.com/anchor/linkedin-profile-scraper) — Scrape public LinkedIn profiles with detailed work history.
-- [LinkedIn Jobs Scraper](https://apify.com/bebity/linkedin-jobs-scraper) — Extract job postings from LinkedIn.
-- [LinkedIn Company Scraper](https://apify.com/anchor/linkedin-company-scraper) — Get company data: size, industry, description, specialties.
-- [LinkedIn Post Scraper](https://apify.com/apidog/linkedin-post-scraper) — Extract posts and engagement metrics.
+- [LinkedIn Employee Scraper](https://apify.com/george.the.developer/linkedin-company-employees-scraper?fpr=bbquoh) ⭐ **Recommended** — Extract employee profiles from any company. No login required. Sales prospecting, recruiting, competitive analysis. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/linkedin-employee-scraper) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/linkedin-employee-scraper-api))
+- [LinkedIn Profile Scraper](https://apify.com/anchor/linkedin-profile-scraper?fpr=bbquoh) — Scrape public LinkedIn profiles with detailed work history.
+- [LinkedIn Jobs Scraper](https://apify.com/bebity/linkedin-jobs-scraper?fpr=bbquoh) — Extract job postings from LinkedIn.
+- [LinkedIn Company Scraper](https://apify.com/anchor/linkedin-company-scraper?fpr=bbquoh) — Get company data: size, industry, description, specialties.
+- [LinkedIn Post Scraper](https://apify.com/apidog/linkedin-post-scraper?fpr=bbquoh) — Extract posts and engagement metrics.
 
 ### YouTube
 
-- [YouTube Transcript Extractor](https://apify.com/george.the.developer/youtube-transcript-scraper) ⭐ **Recommended** — Extract transcripts & captions from any video. Supports playlists, channels, 100+ languages. No API key needed. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/youtube-transcript-extractor) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/youtube-transcript-extractor-api))
-- [YouTube Scraper](https://apify.com/bernardo/youtube-scraper) — Scrape video metadata, comments, and channel info.
-- [YouTube Channel Scraper](https://apify.com/streamers/youtube-channel-scraper) — Extract all videos from a YouTube channel.
-- [YouTube Comments Scraper](https://apify.com/lhotanok/youtube-comment-scraper) — Extract comments and replies from videos.
+- [YouTube Transcript Extractor](https://apify.com/george.the.developer/youtube-transcript-scraper?fpr=bbquoh) ⭐ **Recommended** — Extract transcripts & captions from any video. Supports playlists, channels, 100+ languages. No API key needed. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/youtube-transcript-extractor) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/youtube-transcript-extractor-api))
+- [YouTube Scraper](https://apify.com/bernardo/youtube-scraper?fpr=bbquoh) — Scrape video metadata, comments, and channel info.
+- [YouTube Channel Scraper](https://apify.com/streamers/youtube-channel-scraper?fpr=bbquoh) — Extract all videos from a YouTube channel.
+- [YouTube Comments Scraper](https://apify.com/lhotanok/youtube-comment-scraper?fpr=bbquoh) — Extract comments and replies from videos.
 
 ### TikTok
 
-- [TikTok Scraper](https://apify.com/clockworks/tiktok-scraper) — Scrape videos, profiles, hashtags, and music pages.
-- [TikTok Shop Affiliate Scraper](https://apify.com/george.the.developer/tiktok-shop-affiliate-sales-scraper) — Extract TikTok Shop product and affiliate data.
-- [TikTok Hashtag Scraper](https://apify.com/clockworks/tiktok-hashtag-scraper) — Track hashtag performance and trending content.
+- [TikTok Scraper](https://apify.com/clockworks/tiktok-scraper?fpr=bbquoh) — Scrape videos, profiles, hashtags, and music pages.
+- [TikTok Shop Affiliate Scraper](https://apify.com/george.the.developer/tiktok-shop-affiliate-sales-scraper?fpr=bbquoh) — Extract TikTok Shop product and affiliate data.
+- [TikTok Hashtag Scraper](https://apify.com/clockworks/tiktok-hashtag-scraper?fpr=bbquoh) — Track hashtag performance and trending content.
 
 ### Reddit
 
-- [Reddit Scraper Pro](https://apify.com/george.the.developer/reddit-scraper-pro) — Scrape posts, comments, and user data from any subreddit.
-- [Reddit Comment Scraper](https://apify.com/trudax/reddit-comment-scraper) — Extract comments from Reddit threads.
-- [Reddit Search Scraper](https://apify.com/apigeek/reddit-search-scraper) — Search Reddit and extract matching posts.
+- [Reddit Scraper Pro](https://apify.com/george.the.developer/reddit-scraper-pro?fpr=bbquoh) — Scrape posts, comments, and user data from any subreddit.
+- [Reddit Comment Scraper](https://apify.com/trudax/reddit-comment-scraper?fpr=bbquoh) — Extract comments from Reddit threads.
+- [Reddit Search Scraper](https://apify.com/apigeek/reddit-search-scraper?fpr=bbquoh) — Search Reddit and extract matching posts.
 
 ### Twitter/X
 
-- [Twitter Scraper](https://apify.com/quacker/twitter-scraper) — Extract tweets, profiles, and follower data.
-- [Twitter Search Scraper](https://apify.com/microworlds/twitter-scraper) — Search Twitter and extract results.
-- [X/Twitter Trend Monitor](https://apify.com/vbartonicek/twitter-trends) — Track trending topics and hashtags.
+- [Twitter Scraper](https://apify.com/quacker/twitter-scraper?fpr=bbquoh) — Extract tweets, profiles, and follower data.
+- [Twitter Search Scraper](https://apify.com/microworlds/twitter-scraper?fpr=bbquoh) — Search Twitter and extract results.
+- [X/Twitter Trend Monitor](https://apify.com/vbartonicek/twitter-trends?fpr=bbquoh) — Track trending topics and hashtags.
 
 ### Instagram
 
-- [Instagram Scraper](https://apify.com/apify/instagram-scraper) — Scrape posts, profiles, hashtags, and stories.
-- [Instagram Profile Scraper](https://apify.com/apify/instagram-profile-scraper) — Get profile data: bio, followers, following, posts.
-- [Instagram Comment Scraper](https://apify.com/apify/instagram-comment-scraper) — Extract comments from posts.
+- [Instagram Scraper](https://apify.com/apify/instagram-scraper?fpr=bbquoh) — Scrape posts, profiles, hashtags, and stories.
+- [Instagram Profile Scraper](https://apify.com/apify/instagram-profile-scraper?fpr=bbquoh) — Get profile data: bio, followers, following, posts.
+- [Instagram Comment Scraper](https://apify.com/apify/instagram-comment-scraper?fpr=bbquoh) — Extract comments from posts.
 
 ### Facebook
 
-- [Facebook Pages Scraper](https://apify.com/apify/facebook-pages-scraper) — Scrape Facebook pages: posts, reviews, info.
-- [Facebook Ads Scraper](https://apify.com/apify/facebook-ads-scraper) — Extract ads from Meta Ad Library.
+- [Facebook Pages Scraper](https://apify.com/apify/facebook-pages-scraper?fpr=bbquoh) — Scrape Facebook pages: posts, reviews, info.
+- [Facebook Ads Scraper](https://apify.com/apify/facebook-ads-scraper?fpr=bbquoh) — Extract ads from Meta Ad Library.
 
 ---
 
 ## News & Media Monitoring
 
-- [Google News Scraper](https://apify.com/george.the.developer/google-news-monitor) ⭐ **Recommended** — Scrape Google News by keyword. Triple-fallback (RSS + browser + search). Brand monitoring, PR tracking, competitive intelligence. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/google-news-scraper) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/google-news-scraper-brand-monitor-api))
-- [News Scraper](https://apify.com/mshields/news-scraper) — Extract articles from major news sites.
-- [Google Alerts Alternative](https://apify.com/lhotanok/google-news-scraper) — Monitor keywords across Google News.
-- [Hacker News Scraper](https://apify.com/drobnikj/hacker-news-scraper) — Scrape Hacker News stories, comments, and user data.
-- [RSS Feed Reader](https://apify.com/dtrungtin/rss-feed-reader) — Parse and extract data from RSS/Atom feeds.
+- [Google News Scraper](https://apify.com/george.the.developer/google-news-monitor?fpr=bbquoh) ⭐ **Recommended** — Scrape Google News by keyword. Triple-fallback (RSS + browser + search). Brand monitoring, PR tracking, competitive intelligence. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/google-news-scraper) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/google-news-scraper-brand-monitor-api))
+- [News Scraper](https://apify.com/mshields/news-scraper?fpr=bbquoh) — Extract articles from major news sites.
+- [Google Alerts Alternative](https://apify.com/lhotanok/google-news-scraper?fpr=bbquoh) — Monitor keywords across Google News.
+- [Hacker News Scraper](https://apify.com/drobnikj/hacker-news-scraper?fpr=bbquoh) — Scrape Hacker News stories, comments, and user data.
+- [RSS Feed Reader](https://apify.com/dtrungtin/rss-feed-reader?fpr=bbquoh) — Parse and extract data from RSS/Atom feeds.
 
 ---
 
 ## B2B Lead Generation
 
-- [Website Contact Scraper Pro](https://apify.com/george.the.developer/website-contact-scraper) ⭐ **Recommended** — Extract emails, phones, social links from any website. Auto-discovers contact pages. Tech stack detection. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/website-contact-scraper) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/website-contact-lead-scraper-api))
-- [Google Maps Leads Generator](https://apify.com/george.the.developer/google-maps-lead-intel) — Extract business data from Google Maps.
-- [B2B Buyer Intent Extractor](https://apify.com/george.the.developer/saas-buyer-extractor) — Identify companies showing buying signals.
-- [Email Finder](https://apify.com/emastra/email-finder) — Find email addresses from domains.
-- [Company Data Enrichment](https://apify.com/apify/company-enrichment) — Enrich company data with website, social, and contact info.
-- [Crunchbase Scraper](https://apify.com/george.the.developer/unblockable-crunchbase-scraper-b2b-intelligence-leads) — Extract startup and funding data from Crunchbase.
+- [Website Contact Scraper Pro](https://apify.com/george.the.developer/website-contact-scraper?fpr=bbquoh) ⭐ **Recommended** — Extract emails, phones, social links from any website. Auto-discovers contact pages. Tech stack detection. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/website-contact-scraper) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/website-contact-lead-scraper-api))
+- [Google Maps Leads Generator](https://apify.com/george.the.developer/google-maps-lead-intel?fpr=bbquoh) — Extract business data from Google Maps.
+- [B2B Buyer Intent Extractor](https://apify.com/george.the.developer/saas-buyer-extractor?fpr=bbquoh) — Identify companies showing buying signals.
+- [Email Finder](https://apify.com/emastra/email-finder?fpr=bbquoh) — Find email addresses from domains.
+- [Company Data Enrichment](https://apify.com/apify/company-enrichment?fpr=bbquoh) — Enrich company data with website, social, and contact info.
+- [Crunchbase Scraper](https://apify.com/george.the.developer/unblockable-crunchbase-scraper-b2b-intelligence-leads?fpr=bbquoh) — Extract startup and funding data from Crunchbase.
 
 ---
 
 ## E-Commerce Intelligence
 
-- [Shopify Discount Scanner](https://apify.com/george.the.developer/shopify-discount-scanner) — Find active discount codes on Shopify stores.
-- [Amazon Product Scraper](https://apify.com/junglee/amazon-scraper) — Extract product data, reviews, and pricing from Amazon.
-- [AliExpress Scraper](https://apify.com/epctex/aliexpress-scraper) — Scrape product data from AliExpress.
-- [eBay Scraper](https://apify.com/dtrungtin/ebay-scraper) — Extract listings, pricing, and seller data from eBay.
-- [Price Monitor](https://apify.com/apify/monitoring-checker) — Track price changes across e-commerce sites.
+- [Shopify Discount Scanner](https://apify.com/george.the.developer/shopify-discount-scanner?fpr=bbquoh) — Find active discount codes on Shopify stores.
+- [Amazon Product Scraper](https://apify.com/junglee/amazon-scraper?fpr=bbquoh) — Extract product data, reviews, and pricing from Amazon.
+- [AliExpress Scraper](https://apify.com/epctex/aliexpress-scraper?fpr=bbquoh) — Scrape product data from AliExpress.
+- [eBay Scraper](https://apify.com/dtrungtin/ebay-scraper?fpr=bbquoh) — Extract listings, pricing, and seller data from eBay.
+- [Price Monitor](https://apify.com/apify/monitoring-checker?fpr=bbquoh) — Track price changes across e-commerce sites.
 
 ---
 
 ## Government & Compliance Data
 
-- [US Tariff & HS Code Lookup](https://apify.com/george.the.developer/us-tariff-lookup) ⭐ **Recommended** — Look up US import duty rates and HS codes. USMCA, GSP, FTA rates. Updated 2026 data. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/us-tariff-lookup) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/us-tariff-hs-code-lookup-api))
-- [ICO Drops Scraper](https://apify.com/george.the.developer/unblockable-ico-drops-scraper) — Track cryptocurrency ICO/IDO data.
-- [CoinMarketCap Scraper](https://apify.com/george.the.developer/coinmarketcap-new-coins-scraper) — Extract cryptocurrency market data.
-- [SEC EDGAR Scraper](https://apify.com/epctex/sec-edgar-scraper) — Extract SEC filings and financial data.
+- [US Tariff & HS Code Lookup](https://apify.com/george.the.developer/us-tariff-lookup?fpr=bbquoh) ⭐ **Recommended** — Look up US import duty rates and HS codes. USMCA, GSP, FTA rates. Updated 2026 data. ([GitHub](https://github.com/the-ai-entrepreneur-ai-hub/us-tariff-lookup) | [RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/us-tariff-hs-code-lookup-api))
+- [ICO Drops Scraper](https://apify.com/george.the.developer/unblockable-ico-drops-scraper?fpr=bbquoh) — Track cryptocurrency ICO/IDO data.
+- [CoinMarketCap Scraper](https://apify.com/george.the.developer/coinmarketcap-new-coins-scraper?fpr=bbquoh) — Extract cryptocurrency market data.
+- [SEC EDGAR Scraper](https://apify.com/epctex/sec-edgar-scraper?fpr=bbquoh) — Extract SEC filings and financial data.
 
 ---
 
 ## Search Engine Scrapers
 
-- [Google Search Scraper](https://apify.com/apify/google-search-scraper) — Extract Google search results at scale.
-- [Google Maps Scraper](https://apify.com/compass/crawler-google-places) — Scrape business listings from Google Maps.
-- [Bing Search Scraper](https://apify.com/epctex/bing-scraper) — Extract Bing search results.
-- [Google Shopping Scraper](https://apify.com/epctex/google-shopping-scraper) — Extract product listings from Google Shopping.
-- [Google Scholar Scraper](https://apify.com/apigeek/google-scholar-scraper) — Extract academic papers and citations.
+- [Google Search Scraper](https://apify.com/apify/google-search-scraper?fpr=bbquoh) — Extract Google search results at scale.
+- [Google Maps Scraper](https://apify.com/compass/crawler-google-places?fpr=bbquoh) — Scrape business listings from Google Maps.
+- [Bing Search Scraper](https://apify.com/epctex/bing-scraper?fpr=bbquoh) — Extract Bing search results.
+- [Google Shopping Scraper](https://apify.com/epctex/google-shopping-scraper?fpr=bbquoh) — Extract product listings from Google Shopping.
+- [Google Scholar Scraper](https://apify.com/apigeek/google-scholar-scraper?fpr=bbquoh) — Extract academic papers and citations.
 
 ---
 
 ## General Purpose Scrapers
 
-- [Web Scraper](https://apify.com/apify/web-scraper) — JavaScript-based scraper for any website.
-- [Cheerio Scraper](https://apify.com/apify/cheerio-scraper) — Fast HTML parser, no browser overhead.
-- [Puppeteer Scraper](https://apify.com/apify/puppeteer-scraper) — Full browser scraping with Puppeteer.
-- [Playwright Scraper](https://apify.com/apify/playwright-scraper) — Modern browser automation with Playwright.
-- [Beautiful Soup Scraper](https://apify.com/apify/beautiful-soup-scraper) — Python-based scraper using BeautifulSoup.
+- [Web Scraper](https://apify.com/apify/web-scraper?fpr=bbquoh) — JavaScript-based scraper for any website.
+- [Cheerio Scraper](https://apify.com/apify/cheerio-scraper?fpr=bbquoh) — Fast HTML parser, no browser overhead.
+- [Puppeteer Scraper](https://apify.com/apify/puppeteer-scraper?fpr=bbquoh) — Full browser scraping with Puppeteer.
+- [Playwright Scraper](https://apify.com/apify/playwright-scraper?fpr=bbquoh) — Modern browser automation with Playwright.
+- [Beautiful Soup Scraper](https://apify.com/apify/beautiful-soup-scraper?fpr=bbquoh) — Python-based scraper using BeautifulSoup.
 
 ---
 
@@ -152,7 +152,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 
 ## Anti-Detection & Proxies
 
-- [Apify Proxy](https://apify.com/proxy) — Datacenter, residential, and SERP proxies.
+- [Apify Proxy](https://apify.com/proxy?fpr=bbquoh) — Datacenter, residential, and SERP proxies.
 - [Bright Data](https://brightdata.com/) — Premium proxy network with residential IPs.
 - [Oxylabs](https://oxylabs.io/) — Residential and datacenter proxies.
 - [ScraperAPI](https://www.scraperapi.com/) — API that handles proxies and CAPTCHAs.
