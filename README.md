@@ -103,6 +103,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 - [AliExpress Scraper](https://apify.com/epctex/aliexpress-scraper?fpr=bbquoh) — Scrape product data from AliExpress.
 - [eBay Scraper](https://apify.com/dtrungtin/ebay-scraper?fpr=bbquoh) — Extract listings, pricing, and seller data from eBay.
 - [Price Monitor](https://apify.com/apify/monitoring-checker?fpr=bbquoh) — Track price changes across e-commerce sites.
+- [FlipWorth](https://flipworth.silentdirectivellc.com/?utm_source=awesome-web-scraping-tools&utm_medium=resource-directory) — Photo-based resale price research for secondhand sellers: snap an item and get an estimated resale range, a buy or pass verdict, a suggested list price and where to sell it. Free to try in the browser, also on iPhone.
 
 ---
 
