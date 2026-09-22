@@ -132,6 +132,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 - [Puppeteer Scraper](https://apify.com/apify/puppeteer-scraper?fpr=bbquoh) — Full browser scraping with Puppeteer.
 - [Playwright Scraper](https://apify.com/apify/playwright-scraper?fpr=bbquoh) — Modern browser automation with Playwright.
 - [Beautiful Soup Scraper](https://apify.com/apify/beautiful-soup-scraper?fpr=bbquoh) — Python-based scraper using BeautifulSoup.
+- [PayPerCall (Vend API)](https://extract.paypercall.dev/api/v1/extract) — Pay-per-call web data API: clean text/markdown extraction, link health, web search, geoIP and more from one fee-free Nano (XNO) rail at 0.0001 XNO/call.
 
 ---
 
