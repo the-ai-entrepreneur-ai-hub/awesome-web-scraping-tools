@@ -112,6 +112,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 - [ICO Drops Scraper](https://apify.com/george.the.developer/unblockable-ico-drops-scraper?fpr=bbquoh) — Track cryptocurrency ICO/IDO data.
 - [CoinMarketCap Scraper](https://apify.com/george.the.developer/coinmarketcap-new-coins-scraper?fpr=bbquoh) — Extract cryptocurrency market data.
 - [SEC EDGAR Scraper](https://apify.com/epctex/sec-edgar-scraper?fpr=bbquoh) — Extract SEC filings and financial data.
+- [UK Legislation Point-in-Time History](https://apify.com/yummy_persimmon_er1/uk-legislation-history) — Point-in-time amendment history for UK legislation: which provisions changed, when, and by how much, sourced from legislation.gov.uk under the Open Government Licence.
 
 ---
 
