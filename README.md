@@ -127,6 +127,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 
 ## General Purpose Scrapers
 
+- [Vend API Merchant](https://extract.paypercall.dev) — Pay-per-call web scraping & extraction API: clean text/markdown extract, keyword and relevance-scored semantic search (`search.paypercall.dev/api/v1/neural-search`), CSS-selector extraction, link checker & batch URL status, page metadata, HTML table extraction, and rendered-page text from any URL. No signup, no API keys, settled in Nano (XNO) via x402.
 - [Web Scraper](https://apify.com/apify/web-scraper?fpr=bbquoh) — JavaScript-based scraper for any website.
 - [Cheerio Scraper](https://apify.com/apify/cheerio-scraper?fpr=bbquoh) — Fast HTML parser, no browser overhead.
 - [Puppeteer Scraper](https://apify.com/apify/puppeteer-scraper?fpr=bbquoh) — Full browser scraping with Puppeteer.
