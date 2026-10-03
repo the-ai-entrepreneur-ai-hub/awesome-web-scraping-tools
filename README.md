@@ -81,7 +81,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 - [News Scraper](https://apify.com/mshields/news-scraper?fpr=bbquoh) — Extract articles from major news sites.
 - [Google Alerts Alternative](https://apify.com/lhotanok/google-news-scraper?fpr=bbquoh) — Monitor keywords across Google News.
 - [Hacker News Scraper](https://apify.com/drobnikj/hacker-news-scraper?fpr=bbquoh) — Scrape Hacker News stories, comments, and user data.
-- [RSS Feed Reader](https://apify.com/dtrungtin/rss-feed-reader?fpr=bbquoh) — Parse and extract data from RSS/Atom feeds.
+- [RSS Feed Scraper](https://apify.com/technicaldost/rss-feed-scraper) — Convert public RSS and Atom feeds into JSON/CSV-ready dataset rows with per-feed item limits and metadata/error records (paid per dataset row).
 
 ---
 
