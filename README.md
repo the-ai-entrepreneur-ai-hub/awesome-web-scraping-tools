@@ -72,6 +72,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 
 - [Facebook Pages Scraper](https://apify.com/apify/facebook-pages-scraper?fpr=bbquoh) — Scrape Facebook pages: posts, reviews, info.
 - [Facebook Ads Scraper](https://apify.com/apify/facebook-ads-scraper?fpr=bbquoh) — Extract ads from Meta Ad Library.
+- [LurkAPI](https://lurkapi.com/docs/facebook) — REST API for Meta Ad Library search, an advertiser's ads, and public pages, posts and comments as JSON; the same key covers 15 other platforms.
 
 ---
 
