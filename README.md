@@ -122,6 +122,7 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 - [Bing Search Scraper](https://apify.com/epctex/bing-scraper?fpr=bbquoh) — Extract Bing search results.
 - [Google Shopping Scraper](https://apify.com/epctex/google-shopping-scraper?fpr=bbquoh) — Extract product listings from Google Shopping.
 - [Google Scholar Scraper](https://apify.com/apigeek/google-scholar-scraper?fpr=bbquoh) — Extract academic papers and citations.
+- [Keenable](https://keenable.ai) — Web search API on its own index for AI agents: ranked results as JSON plus page fetch as markdown, via REST or MCP.
 
 ---
 
