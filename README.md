@@ -123,6 +123,8 @@ Whether you need to scrape social media, generate B2B leads, monitor news, or ex
 - [Google Shopping Scraper](https://apify.com/epctex/google-shopping-scraper?fpr=bbquoh) — Extract product listings from Google Shopping.
 - [Google Scholar Scraper](https://apify.com/apigeek/google-scholar-scraper?fpr=bbquoh) — Extract academic papers and citations.
 
+- [FlashData Google and YouTube data tools](https://github.com/rocosen/flashdata-mcp) — Google Search, News, Images, Shopping, Videos and Places plus YouTube search, metadata, existing transcripts and downloads through APIs and MCP; API key and paid credits required. [Documentation](https://flashdata.dev/mcp).
+
 ---
 
 ## General Purpose Scrapers
